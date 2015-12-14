@@ -31,7 +31,7 @@ Module.expectedDataFileDownloads++;
                               ((Module['filePackagePrefixURL'] || '') + REMOTE_PACKAGE_BASE);
   
       var REMOTE_PACKAGE_SIZE = 15427032;
-      var PACKAGE_UUID = '6b99915e-0a6a-4bc7-ba34-f5cea57a131b';
+      var PACKAGE_UUID = '5013d56b-84d5-4355-a468-c9a58cacc3a7';
     
     function fetchRemotePackage(packageName, packageSize, callback, errback) {
       var xhr = new XMLHttpRequest();
